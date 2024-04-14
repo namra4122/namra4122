@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namra4122&label=Profile%20views&color=0e75b6&style=flat" alt="namra4122" /> </p>
 
-- 🌱 I’m currently learning **Web Dev, Machine Learning**
+- 🌱 I’m currently learning **Web Dev, Machine Learning, Deep Learning**
 
 - 📫 How to reach me **namra4122@gmail.com**
 
