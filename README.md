@@ -2,7 +2,7 @@
 
 <h2># 💫 About Me:</h2>
 
-<h3>I’m currently learning **Web Dev, Machine Learning, Deep Learning**</h3>
+<h3>I’m currently learning Web Dev, Machine Learning, Deep Learning</h3>
 
 ## 🌐 Socials:
 
