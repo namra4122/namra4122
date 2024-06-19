@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Namra Maniar</h1>
 
-# 💫 About Me:
+<h2># 💫 About Me:</h2>
 
-I’m currently learning _Web Dev, Machine Learning, Deep Learning_
+<h3>I’m currently learning _Web Dev, Machine Learning, Deep Learning_</h3>
 
 ## 🌐 Socials:
 
@@ -23,7 +23,3 @@ I’m currently learning _Web Dev, Machine Learning, Deep Learning_
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=namra4122&limit=5&theme=dark&combine_all_yearly_contributions=true)
