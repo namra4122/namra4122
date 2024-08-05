@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Namra Maniar</h1>
 
-<h2># 💫 About Me:</h2>
+<h2>💫 About Me:</h2>
 
 <h3>I’m currently learning Web Dev, Machine Learning, Deep Learning</h3>
 
