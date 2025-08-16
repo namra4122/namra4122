@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Namra Maniar</h1>
 
-<h2>💫 About Me:</h2>
+## 💫 About Me:
+<h3>I’m currently learning Backend, AI, Infra, Distributed Databases, MLOps</h3>
 
-<h3>I’m currently learning Web Dev, Machine Learning, Deep Learning</h3>
+## Books I am reading right now:
+- [Designing Data Intensive Applications](https://www.google.co.in/books/edition/Designing_Data_Intensive_Applications/p1heDgAAQBAJ)
+- [Don't Believe Everything You Think](https://www.google.co.in/books/edition/Don_t_Believe_Everything_You_Think/_ZOvEAAAQBAJ)
+
 
 ## 🌐 Socials:
 
@@ -11,5 +15,4 @@
 [![](https://visitcount.itsvg.in/api?id=namra4122&icon=4&color=1)](https://visitcount.itsvg.in)
 
 ### ✍️ Random Dev Quote
-
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
