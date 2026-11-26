@@ -60,23 +60,6 @@ Software engineer focused on **backend systems and automation**, currently at **
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=namra4122&theme=github-dark-blue&hide_border=true)
-
-</div>
-
----
-
-## 📚 Currently Reading
-
-- [Designing Data-Intensive Applications](https://dataintensive.net/) - Martin Kleppmann
-- [Don't Believe Everything You Think](https://www.goodreads.com/book/show/60726415-don-t-believe-everything-you-think) - Joseph Nguyen
-
----
-
 <div align="center">
 
 *"To be a hacker when I use the term is somebody who is creative and does wonderful things."*
